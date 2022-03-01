@@ -15,7 +15,7 @@ Descripción:
 - La preferencia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 
-**Practicas**
+**Prácticas**
 - Toma de requerimientos
 - Creación de un buyer persona
 - Público objetivo
