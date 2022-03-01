@@ -1,8 +1,9 @@
-# Practicas de Intro a Frontend del programa Launch X de Innovacción Virtual - Microsoft
+## Practicas de Intro a Frontend del programa Launch X de Innovacción Virtual - Microsoft
 
 **Caso: Abogabot**
 
 Descripción: 
+
 - Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 - Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
 - Para dar seguimiento a su demanda, el cliente crea una cuenta en la plataforma y verá el seguimiento de cada una de las actualizaciones del proceso legal.
@@ -14,10 +15,10 @@ Descripción:
 - La preferencia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 
-- **Practicas**
-	- Toma de requerimientos
-  - Creación de un buyer persona
-	- Público objetivo
-	- Creación del Wireframe UX
-	- Creación del UI 
+**Practicas**
+- Toma de requerimientos
+- Creación de un buyer persona
+- Público objetivo
+- Creación del Wireframe UX
+- Creación del UI 
 
