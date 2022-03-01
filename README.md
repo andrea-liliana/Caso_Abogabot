@@ -1,4 +1,4 @@
-## Practicas de Intro a Frontend del programa Launch X de Innovacción Virtual - Microsoft
+## Prácticas de Intro a Frontend del programa Launch X de Innovacción Virtual - Microsoft
 
 **Caso: Abogabot**
 
